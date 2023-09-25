@@ -4,7 +4,7 @@ A bit late to the party, but a fellow-geek here with degrees and backgrounds in 
 
 **_Embedded Systems_** are my **forte** !!
 
-Unfortunately, most of my coding is done professionally in proprietary repositories. 
+Unfortunately, most of my coding is done professionally in proprietary repositories.
 I haven't worked on many public or open source repos (yet)... but who knows what the future may bring 🤷‍♂️ !?
 
 Expect most of repos here to be simple or experimental small tools, projects, try-outs or just some personal configurations and scripts.
