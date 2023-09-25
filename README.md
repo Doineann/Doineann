@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there git-geeks ! 👋
 
-<!--
-**Doineann/Doineann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fellow-geek here with degrees and backgrounds in 👨‍💻 Digital Electronics/Computer Science and 🦿 Biomedical Engineering.
 
-Here are some ideas to get you started:
+**_Embedded Systems_** are my **forte** !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my coding has been done professionally in proprietary repositories. 
+I haven't worked on many public or open source repos (yet)... but who knows what the future may bring 🤷‍♂️ !?
+
+Expect most of repos here to be simple or experimental small tools, projects, try-outs or just some personal configurations and scripts.
+
+- ⚗️ Currently working on Genetic Algorithms 🧬 that produce novel kinds of Neural Networks 🧠
+- 🎓 Improving my Rust 🦀
+- 🕹️ Avid gamer 🎮
+- 🌲 Loves being in nature 🦋
+- 🔬 Very much into 🔭 science and technology 📡🛰️
+- ₿ Crypto, ⛓️ Blockchain and 🤖 Machine Learning enthusiast 
